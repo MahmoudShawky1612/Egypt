@@ -1,0 +1,155 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
+
+body {
+    text-align: center;
+    background: url("../image/wp4809768.webp") no-repeat;
+    background-size: cover;
+}
+
+
+
+.textbox {
+    width: 15%;
+    color: blueviolet;
+    background: none;
+    background-image: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 3px;
+    border-bottom: blue 3px solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 25px;
+    
+    
+}
+
+.btn {
+    text-align: center;
+    padding: 4px;
+    margin-bottom: 10px;
+    width: 5%;
+    background-image: none;
+    background: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+    border-bottom: blue 3px solid;
+    border-top: none;
+    border-left: none;
+    border-right: blueviolet solid;
+    border-radius: 24px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.egypt {
+    color: blueviolet;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.login {
+    text-align: center;
+    color: blueviolet;
+    padding: 25px;
+    margin-bottom: 25px;
+    
+}
+
+.about {
+    color: blueviolet;
+    width: 380px;
+    border: blueviolet 2px solid;
+    border-radius: 25px;
+    background: url("../image/image.jfif") no-repeat;
+    background-size: cover;
+    font-size: 18px;
+    
+    
+}
+
+
+
+.more {
+    color: blueviolet;
+    text-align: left;
+    border-top: blueviolet 2px solid;
+    margin-top: 15px;
+    cursor: pointer;
+    border: blueviolet 3px solid;
+    border-radius: 20px;
+    border-left: none;
+    border-bottom: none;
+    border-right: none;
+}    
+    
+
+.fb {
+    width: 10%;
+    color: black;
+    border: blueviolet 3px solid;
+    border-radius: 20px;
+    background-image: url("../image/4379685.jpg");
+    margin-top: 5px c    cx;
+}
+
+.tw {
+    width: 10%;
+    color: black;
+    border: blueviolet 3px solid;
+    border-radius: 20px;
+    background-image: url("../image/4379685.jpg");
+}
+
+.phone {
+    width: 15%;
+    color: black;
+    border: blueviolet 3px solid;
+    border-radius: 20px;
+    background-image: url("../image/4379685.jpg");
+}
+
+
+
+
+.or {
+    color: blue;
+}
+
+.signin{
+    color: blueviolet;
+}
+
+.email {
+    width: 15%;
+    color: blueviolet;
+    text-align: left;
+    border: blueviolet 2px solid;
+    margin-top: 10px;
+    border-radius: 25px;
+}
+
+
+
+/*.loginbox {
+    text-align: center;
+    width: 5%;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: blue 3px solid;
+    padding: 15px;
+    margin-bottom: 2%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    
+}
+
+/*.phone {
+    width: 10%;
+    color: black;
+    border: blueviolet 3px solid;
+    border-radius: 20px;
+    margin-top: 10px;
+    background-image: url("../image/4379685.jpg");
+}
